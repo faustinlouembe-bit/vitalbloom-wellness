@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>VitalBloom Wellness</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">VitalBloom</div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#testimonials">Reviews</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home" class="hero">
+  <h1>Transform Your Health Naturally</h1>
+  <p>Fitness • Nutrition • Mindfulness • Lifestyle Balance</p>
+  <a href="#services" class="btn">Explore Services</a>
+</section>
+
+<section id="about" class="section">
+  <h2>About VitalBloom</h2>
+  <p>
+    VitalBloom Wellness is dedicated to helping you achieve a balanced lifestyle through fitness,
+    nutrition guidance, and mindful living practices. Our mission is to support your transformation
+    into a healthier, stronger, and happier version of yourself.
+  </p>
+</section>
+
+<section id="services" class="section dark">
+  <h2>Our Services</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Fitness Coaching</h3>
+      <p>Personalized workout plans to build strength and energy.</p>
+    </div>
+
+    <div class="card">
+      <h3>Nutrition Plans</h3>
+      <p>Healthy meal guides tailored to your body goals.</p>
+    </div>
+
+    <div class="card">
+      <h3>Mindfulness</h3>
+      <p>Meditation and mental wellness techniques for peace of mind.</p>
+    </div>
+  </div>
+</section>
+
+<section id="testimonials" class="section">
+  <h2>What People Say</h2>
+  <div class="grid">
+    <div class="card">
+      <p>"VitalBloom changed my lifestyle completely!"</p>
+      <span>- Sarah</span>
+    </div>
+    <div class="card">
+      <p>"I feel more energetic and focused every day."</p>
+      <span>- Daniel</span>
+    </div>
+    <div class="card">
+      <p>"Simple, effective, and life-changing guidance."</p>
+      <span>- Amina</span>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section dark">
+  <h2>Contact Us</h2>
+  <p>Email: contact@vitalbloom.com</p>
+  <p>Phone: +233 XXX XXX XXX</p>
+</section>
+
+<footer>
+  <p>© 2026 VitalBloom Wellness. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
